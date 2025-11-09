@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.0",
-    "update_url": "https://www.mediafire.com/file/abcd1234/app_v1.2.0.apk",
-    "changelog": "• Création d'inventaire : unité de mesure dynamique et calcul automatique de la quantité de base.\n• Impression manuelle ajoutée : ne modifie pas le numéro dans Business Central.\n• Étiquettes : Ajout des Étiquettes Carton."
+    "latest_version": "1.0.1",
+    "update_url": "https://www.mediafire.com/file/aaftx7kpi1yq3j6/WINS.apk/file",
+    "changelog": "Ajout d'un champ 'Remarque' permettant d'imprimer un texte personnalisé sur les Étiquettes Support."
 }
