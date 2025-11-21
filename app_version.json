@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.1",
-    "update_url": "https://www.mediafire.com/file/aaftx7kpi1yq3j6/WINS.apk/file",
-    "changelog": "Ajout d'un champ 'Remarque' permettant d'imprimer un texte personnalisé sur les Étiquettes Support."
+    "latest_version": "1.0.2",
+    "update_url": "https://www.mediafire.com/file/u1yjl9r7enx9f37/WINS.apk/file",
+    "changelog": "Ajout de la sélection d`un article spécifique lors du réapprovisionnement manuel qte en cas de plusieurs articles."
 }
