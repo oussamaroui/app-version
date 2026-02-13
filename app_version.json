@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.12",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.12/WINS-V1.0.12.apk",
-    "changelog": "Amélioration requise sur la page Production."
+    "latest_version": "1.0.13",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.13/WINS-V1.0.13.apk",
+    "changelog": "Correction de l'affichage de Rangement et du contrôle de Préparation Libre."
 }
