@@ -1,5 +1,9 @@
 {
-    "latest_version": "1.0.14",
+    "latest_version": "1.0.15",
     "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.14/WINS-V1.0.14.apk",
-    "changelog": "🔴 MISE À JOUR URGENTE 🔴 - Correction de la méthode de Production."
+    "changelog": "🔴 MISE À JOUR TEST 🔴",
+    "targeted_tenants": [
+        "79e38c84-78f3-4242-b6ee-02132088174d"
+    ],
+    "target_all": false
 }
