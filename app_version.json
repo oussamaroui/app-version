@@ -7,5 +7,5 @@
         "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
     "target_all": false,
-    "is_required": 'TEST'
+    "is_required": false
 }
