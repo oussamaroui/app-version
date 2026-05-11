@@ -1,11 +1,11 @@
 {
-    "latest_version": "1.0.20",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.20/WINS.apk",
-    "changelog": "Correction d'un bug dans le menu Adressage.",
+    "latest_version": "1.0.21",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/v1.0.21/WINS-V1.0.21.apk",
+    "changelog": "Améliorations de la page Préparation Libre",
     "targeted_tenants": [
         "79e38c84-78f3-4242-b6ee-02132088174d",
         "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
-    "target_all": true,
+    "target_all": false,
     "is_required": true
 }
