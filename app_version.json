@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.21",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/v1.0.21/WINS-V1.0.21.apk",
+    "latest_version": "1.0.22",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.22/WINS-V1.0.22.apk",
     "changelog": "Améliorations de la page Préparation Libre",
     "targeted_tenants": [
         "79e38c84-78f3-4242-b6ee-02132088174d",
