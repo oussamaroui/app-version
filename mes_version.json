@@ -2,7 +2,7 @@
     "latest_version": "1.0.5",
     "platforms": {
         "mobile": {
-            "update": false,
+            "update": true,
             "update_url": "mobile_apk_url",
             "changelog": "Test Updates"
         },
