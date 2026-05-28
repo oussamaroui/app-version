@@ -1,10 +1,9 @@
 {
-    "latest_version": "1.0.24",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.24/WINS-V1.0.24.apk",
-    "changelog": "Correction d'un bug sur la page de Préparation Libre.",
+    "latest_version": "1.0.25",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.25/WINS-V1.0.25.apk",
+    "changelog": "Corrections et amélioration des performances.",
     "targeted_tenants": [
-        "79e38c84-78f3-4242-b6ee-02132088174d",
-        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
+        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
     "target_all": false,
     "is_required": true
