@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.26",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.26/WINS-V1.0.26.apk",
-    "changelog": "Migration de société.",
+    "latest_version": "1.0.27",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.27/WINS-V1.0.27.apk",
+    "changelog": "Ajout des filtres EDI dans la préparation.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
