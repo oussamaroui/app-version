@@ -1,7 +1,8 @@
 {
-    "latest_version": "1.0.31",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.31/WINS-V1.0.31.apk",
-    "changelog": "Ajout de l'impression sur la préparation.","targeted_tenants": [
+    "latest_version": "1.0.32",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.32/WINS-V1.0.32.apk",
+    "changelog": "Améliorations diverses et prise en charge de nouveaux champs.",
+    "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
     "target_all": false,
