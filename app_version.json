@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.32",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.32/WINS-V1.0.32.apk",
-    "changelog": "Améliorations diverses et prise en charge de nouveaux champs.",
+    "latest_version": "1.0.33",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.33/WINS-V1.0.33.apk",
+    "changelog": "Amélioration des fonctionnalités d'impression.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
