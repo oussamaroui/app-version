@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.37",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.37/WINS-V1.0.37.apk",
-    "changelog": "• Correction des étiquettes STAUBLI. • Ajout de l'impression des étiquettes produit dans la préparation. • Filtre par GALIA dans les tâches de préparation.",
+    "latest_version": "1.0.38",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.38/WINS-V1.0.38.apk",
+    "changelog": "Correction de l'impression des étiquettes produits lors de la préparation.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
