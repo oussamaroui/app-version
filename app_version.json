@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.39",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.39/WINS-V1.0.39.apk",
-    "changelog": "• Ajout du choix du HC lors de la réédition des réceptions. • Amélioration du scan des supports dans les pages Liste des tâches de commande et Préparation de commande.",
+    "latest_version": "1.0.40",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.40/WINS-V1.0.40.apk",
+    "changelog": "Optimisation des requêtes.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
