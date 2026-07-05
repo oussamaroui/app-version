@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.40",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.40/WINS-V1.0.40.apk",
-    "changelog": "Optimisation des requêtes.",
+    "latest_version": "1.0.41",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.41/WINS-V1.0.41.apk",
+    "changelog": "TEST AUTOMATION",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
