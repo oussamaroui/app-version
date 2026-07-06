@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.41",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.41/WINS-V1.0.41.apk",
-    "changelog": "Correction de la mise à jour.",
+    "latest_version": "1.0.42",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.42/WINS-V1.0.42.apk",
+    "changelog": "Ajout de la référence CFCA",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
