@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.44",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.44/WINS-V1.0.44.apk",
-    "changelog": "Ajout du fallback « Ref CFCA » pour le champ article dans l'Ajustement.",
+    "latest_version": "1.0.45",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.45/WINS-V1.0.45.apk",
+    "changelog": "• Effacement du contenu du champ Support dans la Réédition Réception après une impression réussie.\n• Ajout du fallback « Ref CFCA » pour le champ article dans l'Inventaire Produit.\n• Correction de l'impression en Réapprovisionnement Manuel par Quantité.\n• Ajout du Réapprovisionnement Manuel par Quantité de masse avec plusieurs options.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
