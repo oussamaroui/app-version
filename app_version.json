@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.46",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.46/WINS-V1.0.46.apk",
-    "changelog": "Optimisation des appels au serveur",
+    "latest_version": "1.0.47",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.47/WINS-V1.0.47.apk",
+    "changelog": "Ajout d'un contrôle plus avancé des étiquettes.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
