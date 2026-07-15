@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.47",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.47/WINS-V1.0.47.apk",
-    "changelog": "Ajout d'un contrôle plus avancé des étiquettes.",
+    "latest_version": "1.0.48",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.48/WINS-V1.0.48.apk",
+    "changelog": "Ajout de la logique de réapprovisionnement semi-automatique dans le menu de réapprovisionnement.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
