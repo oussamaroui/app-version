@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.48",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.48/WINS-V1.0.48.apk",
-    "changelog": "Ajout de la logique de réapprovisionnement semi-automatique dans le menu de réapprovisionnement.",
+    "latest_version": "1.0.49",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.49/WINS-V1.0.49.apk",
+    "changelog": "Correction en français :\nSéparation des zones dans le Réapprovisionnement semi-auto",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
