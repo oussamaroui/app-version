@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.50",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.50/WINS-V1.0.50.apk",
-    "changelog": "• Amélioration du Réapprovisionnement Semi-auto \n• Ajout de la saisie du BL fournisseur sur Commande Achat",
+    "latest_version": "1.0.51",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.51/WINS-V1.0.51.apk",
+    "changelog": "Mise en production de la fonctionnalité Préparation Article Libre.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
