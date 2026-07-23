@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.52",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.52/WINS-V1.0.52.apk",
-    "changelog": "• Modification de la logique d'impression des étiquettes Carrier.\n • Possibilité de sélectionner un autre emplacement \"de la même zone\" lors du Réapprovisionnement Semi-auto.",
+    "latest_version": "1.0.53",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.53/WINS-V1.0.53.apk",
+    "changelog": "Amélioration de la page « Réapprovisionnement Quantité Masse ».",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
