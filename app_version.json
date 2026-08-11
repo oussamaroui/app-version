@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.55",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.55/WINS-V1.0.55.apk",
-    "changelog": "Amélioration de la logique du Contrôle Qualité.",
+    "latest_version": "1.0.56",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.56/WINS-V1.0.56.apk",
+    "changelog": "Amélioration de la logique de contrôle qualité.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
