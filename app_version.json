@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.56",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.56/WINS-V1.0.56.apk",
-    "changelog": "Amélioration de la logique de contrôle qualité.",
+    "latest_version": "1.0.57",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.57/WINS-V1.0.57.apk",
+    "changelog": "Ajout du nom de l’opérateur dans la Réapprovisionnement semi-auto.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
