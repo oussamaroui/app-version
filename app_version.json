@@ -1,9 +1,9 @@
 {
-    "latest_version": "1.0.57",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.57/WINS-V1.0.57.apk",
-    "changelog": "Ajout du nom de l’opérateur dans la Réapprovisionnement semi-auto.",
+    "latest_version": "1.0.58",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.58/WINS-V1.0.58.apk",
+    "changelog": "Correctif de la liste d'inventaire.",
     "targeted_tenants": [
-        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
+        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
     "target_all": false,
     "is_required": true
