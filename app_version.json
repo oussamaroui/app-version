@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.59",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.59/WINS-V1.0.59.apk",
-    "changelog": "Ajoute un bouton \"où trouver l'article\" en Préparation Libre",
+    "latest_version": "1.0.60",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.60/WINS-V1.0.60.apk",
+    "changelog": "Optimisation du Rangement, de l’Inventaire et du Réapprovisionnement Support Masse.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
