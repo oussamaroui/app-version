@@ -1,9 +1,9 @@
 {
-    "latest_version": "1.0.62",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.62/WINS-V1.0.62.apk",
-    "changelog": "Ajout de l’ajustement dans l’inventaire et affichage des retours de vente dans la liste des commandes de préparation.",
+    "latest_version": "1.0.63",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.63/WINS-V1.0.63.apk",
+    "changelog": "Amélioration de l’inventaire.",
     "targeted_tenants": [
-        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
+        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
     "target_all": false,
     "is_required": true
