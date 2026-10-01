@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.61",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.61/WINS-V1.0.61.apk",
-    "changelog": "Amélioration de l’inventaire tournant\n• Ajout de l’impression des étiquettes.\n• Ajout du filtrage par emplacement.\n• Prise en charge de la lecture du combo `ARTICLE//LOT` pour les anciens supports.",
+    "latest_version": "1.0.62",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.62/WINS-V1.0.62.apk",
+    "changelog": "Ajout de l’ajustement dans l’inventaire et affichage des retours de vente dans la liste des commandes de préparation.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
