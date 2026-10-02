@@ -3,7 +3,7 @@
     "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.64/WINS-V1.0.64.apk",
     "changelog": "• Ajout de suggestions de déplacement lors de la consolidation des supports.\n• Ajout de l’affichage du retour achat dans la liste des commandes de préparation.",
     "targeted_tenants": [
-        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
+        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
     "target_all": false,
     "is_required": true
