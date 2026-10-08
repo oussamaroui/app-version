@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.64",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.64/WINS-V1.0.64.apk",
-    "changelog": "• Ajout de suggestions de déplacement lors de la consolidation des supports.\n• Ajout de l’affichage du retour achat dans la liste des commandes de préparation.",
+    "latest_version": "1.0.65",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.65/WINS-V1.0.65.apk",
+    "changelog": "Lignes de réception : Filtrage par référence client.\nPréparation de commande : Ajout de l’affichage de l’unité de mesure.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
