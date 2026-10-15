@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.66",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.66/WINS-V1.0.66.apk",
-    "changelog": "Affichage du « EDI Prod Order Number » dans la liste des commandes de préparation.",
+    "latest_version": "1.0.67",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.67/WINS-V1.0.67.apk",
+    "changelog": "- Préparation : le n° de commande et le Task ID sont affichés en haut de l’écran. La liste des tâches est actualisée au retour sur l’écran.\n- Réception : il est possible de saisir ou de scanner le quai de réception pour le retrouver directement dans la liste.\n- Réception : un message s’affiche lorsque le n° de BL provient d’une réception précédente déjà validée, afin de permettre sa vérification et la saisie du bon numéro.",
     "targeted_tenants": [
         "4239c1d1-700a-4305-97ac-5a5dd589ee84"
     ],
