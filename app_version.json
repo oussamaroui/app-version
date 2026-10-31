@@ -1,9 +1,9 @@
 {
-    "latest_version": "1.0.68",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.68/WINS-V1.0.68.apk",
-    "changelog": "Optimisation du processus de réédition des étiquettes d’expédition.",
+    "latest_version": "1.0.69",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.69/WINS-V1.0.69.apk",
+    "changelog": "Amélioration du processus de préparation des commandes.",
     "targeted_tenants": [
-        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
+        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
     "target_all": false,
     "is_required": true
