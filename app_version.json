@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.70",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.70/WINS-V1.0.70.apk",
-    "changelog": "Amélioration des messages de réception et des notifications de blocage qualité.",
+    "latest_version": "1.0.71",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.71/WINS-V1.0.71.apk",
+    "changelog": "Optimisation de l’inventaire tournant.",
     "targeted_tenants": [
         "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
