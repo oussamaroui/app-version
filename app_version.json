@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.71",
-    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.71/WINS-V1.0.71.apk",
-    "changelog": "Optimisation de l’inventaire tournant.",
+    "latest_version": "1.0.72",
+    "update_url": "https://github.com/oussamaroui/app-version/releases/download/V1.0.72/WINS-V1.0.72.apk",
+    "changelog": "Optimisation de la Préparation Libre.",
     "targeted_tenants": [
         "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6"
     ],
